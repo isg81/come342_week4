@@ -6,6 +6,7 @@ public class semihgul {
 		System.out.println("Hello, World");
 		System.out.println("Second Trial!!");
 		System.out.println("Third Trial!!");
+		System.out.println("Forth Trial!!");
 	}
 
 }
